@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wired Mouse",
+      "price": 15.99,
+      "brand": "OVO",
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 49.99,
+      "brand": "Redragon",
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "HD Monitor",
+      "price": 129.99,
+      "brand": "Samsung",
+      "inStock": false
+    },
+    {
+      "id": 4,
+      "name": "USB-C Charger",
+      "price": 19.99,
+      "brand": "Anker",
+      "inStock": true
+    },
+    {
+      "id": 5,
+      "name": "Gaming Headset",
+      "price": 39.99,
+      "brand": "HyperX",
+      "inStock": true
+    }
+  ]
+}
