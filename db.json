@@ -35,5 +35,42 @@
       "brand": "HyperX",
       "inStock": true
     }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "author": "Paulo Coelho",
+      "price": 10.99,
+      "available": true
+    },
+    {
+      "id": 2,
+      "title": "Rich Dad Poor Dad",
+      "author": "Robert Kiyosaki",
+      "price": 12.50,
+      "available": true
+    },
+    {
+      "id": 3,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "price": 14.99,
+      "available": false
+    },
+    {
+      "id": 4,
+      "title": "Think and Grow Rich",
+      "author": "Napoleon Hill",
+      "price": 11.75,
+      "available": true
+    },
+    {
+      "id": 5,
+      "title": "The Psychology of Money",
+      "author": "Morgan Housel",
+      "price": 13.99,
+      "available": true
+    }
   ]
 }

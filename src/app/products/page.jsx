@@ -1,6 +1,6 @@
 import Product from "../Components/Product";
 const getProducts = async()=>{
-    const res = await fetch ('http://localhost:5000/products');
+    const res = await fetch ('http://localhost:5000/products',{cache:'force-cache'});
 
     const products =await res.json();
     return products;
