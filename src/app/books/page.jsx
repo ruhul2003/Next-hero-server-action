@@ -12,7 +12,7 @@ const BookPage = async () => {
                 {books.map(book => (
                     <div key={book.id}>
                         <h1>{book.title}</h1>
-                        <p>{book.author}</p>
+                        
                     </div>
                 ))}
             </div>
